@@ -1,0 +1,63 @@
+.main {
+    margin-top: 20px
+}
+    body {
+        color: #121212;             
+        font-size: 15px;        
+        font-weight: bold;   
+        text-align: center;       
+        margin-top: 10px;        
+    }
+
+    .logo-img {
+        display: block;
+        width: 380px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+.card {
+    display: block;
+    color: #222222;
+    font-style: italic;
+    font-size: smaller;
+    background: none;
+    width: 400px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+        
+    padding: 10px;
+    }
+    
+.btn {
+    display: block;
+    margin-top: 10px;
+    background: ;
+    border: solid 3px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    font-size: 10px;
+    }
+    
+    .card {
+    display: block;
+    color: #222222;
+    background: none;
+    width: 400px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+        
+    padding: 10px;
+    }
+    
+    p {
+    margin-top: 10px;
+    text-align: center;
+    font-style: italic;
+    font-size: smaller;
+}
